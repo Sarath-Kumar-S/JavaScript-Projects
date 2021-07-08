@@ -1,1 +1,1 @@
-![](https://github.com/Sarath-Kumar-S/JavaScript-Projects/tree/main/Calculator/Calculator.png)
+![](https://github.com/Sarath-Kumar-S/JavaScript-Projects/blob/main/Calculator/Calculator.png)
