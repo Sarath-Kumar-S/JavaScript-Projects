@@ -1,6 +1,4 @@
 # Digital Clock
-Using HTML and CSS
+Digital Clock created using simple HTML and CSS.
 
-## Demo
-
-<img src="./digitalclock.gif" alt=""/>
+<a href="https://digitalclock2021.netlify.app/">Website</a>
