@@ -1,4 +1,4 @@
-##Calculator
+# Calculator
 
 <a href="https://simplecalcul.netlify.app/">Website</a>
 
